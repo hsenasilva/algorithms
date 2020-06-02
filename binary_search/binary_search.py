@@ -1,3 +1,4 @@
+# encoding': UTF-8
 
 
 class Algo01:
@@ -33,5 +34,4 @@ class Algo01:
         return None
 
     print(binary_search(my_list, 11))
-
 
